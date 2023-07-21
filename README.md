@@ -1,4 +1,4 @@
-[![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)
+![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Eray Karakaşlı</h1>
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
