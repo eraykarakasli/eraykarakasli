@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1)
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Eray Karakaşlı</h1>
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
