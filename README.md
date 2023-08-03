@@ -1,4 +1,4 @@
-![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)
+![MasterHead](https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Eray Karakaşlı</h1>
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
