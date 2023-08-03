@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React.js, Html5, Css3**
 
-- 🌱 I’m currently learning **React, Vue, Angular**
+- 🌱 I’m currently learning **React, Redux, Tailwind, Vue**
 
 - 📫 How to reach me **m.eraykarakasli@gmail.com**
 
